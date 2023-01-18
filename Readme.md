@@ -11,9 +11,11 @@
 # Download and Install OC Command
     Location : https://mirror.openshift.com/pub/openshift-v4/clients/oc/latest/linux/oc.tar.gz
 
-    - Log in to Openshift and list projects and pod's
+    - Log in to Openshift from command line using oc command 
 ```
     oc login --token=************ --server=https://api.sandbox-m2.ll9k.p1.openshiftapps.com:6443
+
 ```
+    - list project(s) 
     - list pods
     - display logs from pod
