@@ -13,7 +13,7 @@
 
     - Log in to Openshift and list projects and pod's
 ```
-        oc login --token=************ --server=https://api.sandbox-m2.ll9k.p1.openshiftapps.com:6443
+    oc login --token=************ --server=https://api.sandbox-m2.ll9k.p1.openshiftapps.com:6443
 ```
     - list pods
     - display logs from pod
