@@ -5,7 +5,7 @@
        - base Image Location "registry.access.redhat.com/ubi8/openjdk-17-runtime:1.14-8"
        - Reference help for Dockerfile https://docs.docker.com/engine/reference/builder/
        - base Image Docker file for Reference (https://catalog.redhat.com/software/containers/ubi8/openjdk-17-runtime/618bdc5f843af1624c4e4ba8?container-tabs=dockerfile)
-       - jar Location https://filebin.net/34wu6yw808ir7ec2/hellodtmb-0.0.1-SNAPSHOT.jar
+       - jar Location https://filebin.net/ofqooy94m97i5zdt/hellodtmb-0.0.1-SNAPSHOT.jar
        - build and tag image as hello-world
     - list and run image hello-world
 
