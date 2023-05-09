@@ -1,6 +1,11 @@
 # Pull and Run image adding a jar file
+
+PREP: 
     - Launch Lab "Red Hat Enterprise Linux Open Lab" from https://lab.redhat.com
-    - Install docker    
+        - Install docker
+    - Login to https://github.com/ , click on Codespaces and  use the blank template.
+ 
+ ACTIVITY:
     - Create a docker file to add hellodtmb-0.0.1-SNAPSHOT.jar to /deployments folder
        - base Image Location "registry.access.redhat.com/ubi8/openjdk-17-runtime:1.14-8"
             - Reference help for Dockerfile https://docs.docker.com/engine/reference/builder/
